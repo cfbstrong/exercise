@@ -1,7 +1,5 @@
 hello git
-<<<<<<< HEAD
 hello git!!!!!!!!!
-=======
 hello git!!
 git hello!!!!!!
->>>>>>> 0670c7ddafd42960916fc1ef354ee08e7c829bd5
+
